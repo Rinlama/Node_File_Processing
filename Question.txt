@@ -1,0 +1,13 @@
+
+Write a program to that reads data from a pipe delimited file, calculates additional information and writes the data back to a file per these requirements. 
+
+Using programming concepts learned in class, write a program that does the followings. 
+
+1.	Opens a pipe delimited file called Prop.txt and reads the data into any array of objects. 
+a.	Note – You can save the file “Prop.txt” into a local directory and read it from the local directory. 
+2.	The program calculates additional information such as below
+a.	Net Income
+i.	This value is calculated as (Price Sold – Total Cost)
+
+
+3.	The program creates another file “Prop2.txt”. in your local directory.  The program saves all the information read from Prop.txt and the calculated data in step 2 in Prop2.txt. 
